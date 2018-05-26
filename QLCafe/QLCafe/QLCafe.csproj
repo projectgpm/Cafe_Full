@@ -354,6 +354,9 @@
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="bin\Debug\QLCafe.vshost.exe.manifest" />
+    <None Include="bin\Release\QLCafe.exe.config" />
+    <None Include="bin\Release\QLCafe.vshost.exe.config" />
+    <None Include="bin\Release\QLCafe.vshost.exe.manifest" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="obj\Debug\QLCafe.csproj.GenerateResource.Cache" />
@@ -370,11 +373,22 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\Debug\BUS.dll" />
+    <Content Include="bin\Debug\cafe2.png" />
+    <Content Include="bin\Debug\cafe3.png" />
+    <Content Include="bin\Debug\cafe4.png" />
     <Content Include="bin\Debug\QLCafe.exe" />
     <Content Include="bin\Debug\QLCafe.pdb" />
     <Content Include="bin\Debug\QLCafe.vshost.exe" />
     <Content Include="bin\Debug\QLCafeGPM.dll" />
     <Content Include="bin\Debug\ServerSql.txt" />
+    <Content Include="bin\Release\BUS.dll" />
+    <Content Include="bin\Release\cafe2.png" />
+    <Content Include="bin\Release\cafe3.png" />
+    <Content Include="bin\Release\cafe4.png" />
+    <Content Include="bin\Release\QLCafe.exe" />
+    <Content Include="bin\Release\QLCafe.pdb" />
+    <Content Include="bin\Release\QLCafe.vshost.exe" />
+    <Content Include="bin\Release\QLCafeGPM.dll" />
     <Content Include="images\gpm.ico" />
     <Content Include="images\gpm.png" />
     <Content Include="obj\Debug\QLCafe.csproj.FileListAbsolute.txt" />
@@ -383,7 +397,6 @@
     <Content Include="obj\Debug\QLCafe.pdb" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="bin\Release\" />
     <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <ItemGroup>
