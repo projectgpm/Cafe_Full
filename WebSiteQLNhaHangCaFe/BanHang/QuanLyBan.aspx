@@ -98,7 +98,7 @@
                                     </Styles>
                                 </dx:ASPxGridView>
                                 <asp:SqlDataSource ID="SqlChiNhanh" runat="server" ConnectionString="<%$ ConnectionStrings:BanHangConnectionString %>" SelectCommand="SELECT [ID], [TenChiNhanh] FROM [CF_ChiNhanh]"></asp:SqlDataSource>
-                                <dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí cho phép tạo tối đa 100 bàn." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>
+                                <%--<dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí cho phép tạo tối đa 100 bàn." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>--%>
                             </dx:LayoutItemNestedControlContainer>
                         </LayoutItemNestedControlCollection>
                     </dx:LayoutItem>

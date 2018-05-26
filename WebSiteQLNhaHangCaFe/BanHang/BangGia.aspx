@@ -6,7 +6,6 @@
              popup.ShowAtElement();
              // alert(key);
          }
-
     </script>
      <dx:ASPxFormLayout ID="ASPxFormLayout1" runat="server" Width="100%">
         <Items>
@@ -52,11 +51,9 @@
                                         <EditForm HorizontalAlign="WindowCenter" Modal="True" VerticalAlign="WindowCenter" />
                                     </SettingsPopup>
                                     <SettingsSearchPanel Visible="True" />
-                                    <SettingsText CommandDelete="Xóa" CommandEdit="Sửa" CommandNew="Thêm" ConfirmDelete="Bạn có chắc chắn muốn xóa không?" PopupEditFormCaption="Thông tin đơn vị tính" Title="DANH SÁCH ĐƠN VỊ TÍNH" EmptyDataRow="Danh sách trống." SearchPanelEditorNullText="Nhập thông tin cần tìm..." />
+                                    <SettingsText CommandDelete="Xóa" CommandEdit="Sửa" CommandNew="Thêm" ConfirmDelete="Bạn có chắc chắn muốn xóa không?" PopupEditFormCaption="Thông tin" Title="DANH SÁCH ĐƠN VỊ TÍNH" EmptyDataRow="Danh sách trống." SearchPanelEditorNullText="Nhập thông tin cần tìm..." />
                                     <EditFormLayoutProperties>
                                         <Items>
-                                            <dx:GridViewColumnLayoutItem ColumnName="Chi Nhánh">
-                                            </dx:GridViewColumnLayoutItem>
                                             <dx:GridViewColumnLayoutItem ColumnName="Tên Bảng Giá">
                                             </dx:GridViewColumnLayoutItem>
                                             <dx:EditModeCommandLayoutItem HorizontalAlign="Right">
@@ -103,7 +100,7 @@
                                     </Styles>
                                 </dx:ASPxGridView>
                                 <asp:SqlDataSource ID="SqlChiNhanh" runat="server" ConnectionString="<%$ ConnectionStrings:BanHangConnectionString %>" SelectCommand="SELECT [ID], [TenChiNhanh] FROM [CF_ChiNhanh]"></asp:SqlDataSource>
-                                <dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí chỉ cho phép sử dụng 1 bảng giá. Vui lòng nâng cấp lên bản PRO để tạo được nhiều bảng giá." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>
+                                <%--<dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí chỉ cho phép sử dụng 1 bảng giá. Vui lòng nâng cấp lên bản PRO để tạo được nhiều bảng giá." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>--%>
                             </dx:LayoutItemNestedControlContainer>
                         </LayoutItemNestedControlCollection>
                     </dx:LayoutItem>

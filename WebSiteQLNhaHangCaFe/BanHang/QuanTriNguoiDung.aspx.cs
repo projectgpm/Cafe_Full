@@ -43,32 +43,32 @@ namespace BanHang
 
         protected void gridQuanTriNguoiDung_RowInserting(object sender, DevExpress.Web.Data.ASPxDataInsertingEventArgs e)
         {
-           
-            //data = new dtQuanTriNguoiDung();
-            //string MaNhanVien = dtQuanTriNguoiDung.Dem_Max();
-            //string TenNguoiDung = e.NewValues["TenNguoiDung"].ToString();
-            //string IDChiNhanh = Session["IDChiNhanh"].ToString();
-            //int IDNhomNguoiDung = Int32.Parse(e.NewValues["IDNhomNguoiDung"].ToString());
-            //string Email = "";
-            //string SDT = e.NewValues["SDT"].ToString();
-            //string MatKhau = e.NewValues["MatKhau"].ToString();
-            //MatKhau = dtSetting.GetSHA1HashData(MatKhau);
-            //string TenDangNhap = e.NewValues["TenDangNhap"].ToString().ToUpper();
 
-            //if (dtQuanTriNguoiDung.KiemTraNguoiDung(TenDangNhap.Trim()) != -1)
-            //{
-            //    throw new Exception("Lỗi: Tên đăng nhập đã tồn tại");
-            //}
-            //else
-            //{
-            //    data.ThemNguoiDung(MaNhanVien, TenNguoiDung, TenDangNhap, IDNhomNguoiDung, SDT, MatKhau, Email, IDChiNhanh);
-               
-            //}
-            //e.Cancel = true;
-            //gridQuanTriNguoiDung.CancelEdit();
-            //LoadGrid();
+            data = new dtQuanTriNguoiDung();
+            string MaNhanVien = dtQuanTriNguoiDung.Dem_Max();
+            string TenNguoiDung = e.NewValues["TenNguoiDung"].ToString();
+            string IDChiNhanh = Session["IDChiNhanh"].ToString();
+            int IDNhomNguoiDung = Int32.Parse(e.NewValues["IDNhomNguoiDung"].ToString());
+            string Email = "";
+            string SDT = e.NewValues["SDT"].ToString();
+            string MatKhau = "1";
+            MatKhau = dtSetting.GetSHA1HashData(MatKhau);
+            string TenDangNhap = e.NewValues["TenDangNhap"].ToString().ToUpper();
 
-            //dtLichSuTruyCap.ThemLichSu(Session["IDChiNhanh"].ToString(), Session["IDNhom"].ToString(), Session["IDNhanVien"].ToString(), "Quản lý người dùng", "Thêm người dùng: " + TenNguoiDung);
+            if (dtQuanTriNguoiDung.KiemTraNguoiDung(TenDangNhap.Trim()) != -1)
+            {
+                throw new Exception("Lỗi: Tên đăng nhập đã tồn tại");
+            }
+            else
+            {
+                data.ThemNguoiDung(MaNhanVien, TenNguoiDung, TenDangNhap, IDNhomNguoiDung, SDT, MatKhau, Email, IDChiNhanh);
+
+            }
+            e.Cancel = true;
+            gridQuanTriNguoiDung.CancelEdit();
+            LoadGrid();
+
+            dtLichSuTruyCap.ThemLichSu(Session["IDChiNhanh"].ToString(), Session["IDNhom"].ToString(), Session["IDNhanVien"].ToString(), "Quản lý người dùng", "Thêm người dùng: " + TenNguoiDung);
         }
 
         protected void gridQuanTriNguoiDung_RowUpdating(object sender, DevExpress.Web.Data.ASPxDataUpdatingEventArgs e)

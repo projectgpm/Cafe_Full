@@ -19,11 +19,11 @@ namespace BanHang
             }
             else
             {
-                if (Session["IDNhanVien"].ToString() != "1")
-                {
-                    gridDanhSach.Columns["chucnang"].Visible = false;
+               // if (Session["IDNhanVien"].ToString() != "1")
+               // {
+                    //gridDanhSach.Columns["chucnang"].Visible = false;
                     gridDanhSach.Columns["chucnangChiNhanh"].Visible = false;
-                }
+                //}
                 LoadGrid();
             }
         }
@@ -41,7 +41,7 @@ namespace BanHang
             string TenKhuVuc = e.NewValues["TenKhuVuc"].ToString();
             string KyHieu = e.NewValues["KyHieu"].ToString();
             //string TyLe = e.NewValues["GiaKhuVuc"].ToString();
-            string IDChiNhanh = e.NewValues["IDChiNhanh"].ToString();
+            string IDChiNhanh = Session["IDChiNhanh"].ToString();
             string IDBangGia = e.NewValues["IDBangGia"].ToString();
             string GhiChu = e.NewValues["GhiChu"] == null ? "" : e.NewValues["GhiChu"].ToString();
             data = new dtKhuVuc();
@@ -54,7 +54,7 @@ namespace BanHang
 
         protected void gridDanhSach_RowInserting(object sender, DevExpress.Web.Data.ASPxDataInsertingEventArgs e)
         {
-            string IDChiNhanh = e.NewValues["IDChiNhanh"].ToString();
+            string IDChiNhanh = Session["IDChiNhanh"].ToString();
             string KyHieu = e.NewValues["KyHieu"].ToString();
             string MaKhuVuc = "1";
             string TenKhuVuc = e.NewValues["TenKhuVuc"].ToString();

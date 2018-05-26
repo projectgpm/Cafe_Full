@@ -20,11 +20,11 @@ namespace BanHang
             }
             else
             {
-                if (Session["IDNhanVien"].ToString() != "1")
-                {
-                    gridBangGia.Columns["chucnang"].Visible = false;
+                //if (Session["IDNhanVien"].ToString() != "1")
+                //{
+                   // gridBangGia.Columns["chucnang"].Visible = false;
                     gridBangGia.Columns["ChiNhanh"].Visible = false;
-                }
+                //}
                 LoadGrid();
             }
         }
@@ -48,7 +48,7 @@ namespace BanHang
 
         protected void gridBangGia_RowInserting(object sender, DevExpress.Web.Data.ASPxDataInsertingEventArgs e)
         {
-            string IDChiNhanh = e.NewValues["IDChiNhanh"].ToString();
+            string IDChiNhanh = Session["IDChiNhanh"].ToString();
             string TenBangGia = e.NewValues["TenBangGia"].ToString();
             data = new dtBangGia();
             object ID = data.ThemMoi(TenBangGia, IDChiNhanh);

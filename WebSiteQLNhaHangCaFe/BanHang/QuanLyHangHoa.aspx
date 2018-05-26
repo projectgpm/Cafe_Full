@@ -274,7 +274,7 @@
                                                 </TitlePanel>
                                             </Styles>
                                         </dx:ASPxGridView>
-                                        <dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí sẽ không quản ký được tồn kho hàng hóa. Vui lòng nâng cấp lên bản PRO để quản lý tồn kho." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>
+                                        <%--<dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí sẽ không quản ký được tồn kho hàng hóa. Vui lòng nâng cấp lên bản PRO để quản lý tồn kho." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>--%>
                                     </dx:LayoutItemNestedControlContainer>
                                 </LayoutItemNestedControlCollection>
                             </dx:LayoutItem>
