@@ -1,0 +1,143 @@
+D:\Code\ASP Ban Hang\BanHang\BanHang\bin\BanHang.dll
+D:\Code\ASP Ban Hang\BanHang\BanHang\bin\BanHang.pdb
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.csprojResolveAssemblyReference.cache
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuChuyenKho.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuNhapLe.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuNhapSi.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuXuatKhac.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoBanHangLe.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoNhapHang.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoNhapHangLe.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoNhapHangSi.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoTonKho.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpHoaDonBanHangLe.resources
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.csproj.GenerateResource.Cache
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.dll.licenses
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.dll
+D:\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.pdb
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\bin\BanHang.dll
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\bin\BanHang.pdb
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.csprojResolveAssemblyReference.cache
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.HoaDonBanle.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuChuyenKho.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuDoiHang.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuNhapLe.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuNhapSi.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuXuatKhac.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBangKePhieuXuatTra.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoBanHangLe.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoNhapHangLe.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoNhapHangSi.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoTonKho.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpBaoCaoTraHang.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpDonDatHang.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.Report.rpHoaDonBanHangLe.resources
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.csproj.GenerateResource.Cache
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.dll.licenses
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.dll
+C:\Users\vmquy\Desktop\Cty GPM\Code\ASP Ban Hang\BanHang\BanHang\obj\Release\BanHang.pdb
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.dll
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.pdb
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csprojResolveAssemblyReference.cache
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang.resources
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCPhieuXuatKhac.resources
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCTonKho.resources
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang.resources
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKPhieuXuatKhac.resources
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csproj.GenerateResource.Cache
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll.licenses
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.pdb
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKTienGio.resources
+C:\Users\vmquy\Desktop\GPM Code\BiDa_MayMay\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCTienGio.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.dll
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.pdb
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csprojResolveAssemblyReference.cache
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang_W_In.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCNhapHang.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCTienGio.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCXuatKhac.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang_W_In.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKetCa.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKiemKho.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKNhapHang.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKTienGio.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatKhac.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatNhapChiTiet.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpHoaDonBanHang.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpTonKhoBanDau.resources
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csproj.GenerateResource.Cache
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll.licenses
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll
+D:\GPMSoffware\TraiCayTuChon_ChiAn\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.pdb
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.dll
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.pdb
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csprojResolveAssemblyReference.cache
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang_W_In.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCNhapHang.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCTienGio.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCXuatKhac.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang_W_In.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKetCa.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKiemKho.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKNhapHang.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKTienGio.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatKhac.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatNhapChiTiet.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpHoaDonBanHang.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpTonKhoBanDau.resources
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csproj.GenerateResource.Cache
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll.licenses
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll
+C:\Users\vmquy\Desktop\Code\QuanNhauVuonThuong\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.pdb
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.dll
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.pdb
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csprojResolveAssemblyReference.cache
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBaoCaoLoiNhuan.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBaoCaoTongHop.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang_W_In.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCNhapHang.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCTienGio.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCXuatKhac.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang_W_In.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKetCa.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKiemKho.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKNhapHang.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKTienGio.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatKhac.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatNhapChiTiet.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpHoaDonBanHang.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpTonKhoBanDau.resources
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csproj.GenerateResource.Cache
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll.licenses
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll
+D:\GPMSoffware\CaFeNow_ThotNot\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.pdb
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.dll
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\bin\BanHang.pdb
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csprojResolveAssemblyReference.cache
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBaoCaoTongHop.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCBanHang_W_In.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCNhapHang.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCTienGio.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBCXuatKhac.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKBanHang_W_In.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKetCa.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKKiemKho.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKNhapHang.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKTienGio.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatKhac.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpBKXuatNhapChiTiet.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpHoaDonBanHang.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.Report.rpTonKhoBanDau.resources
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.csproj.GenerateResource.Cache
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll.licenses
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.dll
+D:\GPM2018\CaFeMienPhi\WebSiteQLNhaHangCaFe\BanHang\obj\Release\BanHang.pdb
