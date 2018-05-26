@@ -45,8 +45,6 @@
                                     <SettingsText CommandDelete="Xóa" CommandEdit="Sửa" CommandNew="Thêm" ConfirmDelete="Bạn có chắc chắn muốn xóa không?" PopupEditFormCaption="Thông Tin Khu Vực" Title="DANH SÁCH KHU VỰC" EmptyDataRow="Danh sách trống." SearchPanelEditorNullText="Nhập thông tin cần tìm..." />
                                     <EditFormLayoutProperties>
                                         <Items>
-                                            <dx:GridViewColumnLayoutItem ColumnName="Chi Nhánh">
-                                            </dx:GridViewColumnLayoutItem>
                                             <dx:GridViewColumnLayoutItem ColumnName="Tên Khu Vực" Name="TenDonViTinh">
                                             </dx:GridViewColumnLayoutItem>
                                             <dx:GridViewColumnLayoutItem ColumnName="Ký Hiệu" Name="KyHieu">
@@ -111,10 +109,11 @@
                                         </TitlePanel>
                                     </Styles>
                                 </dx:ASPxGridView>
-                                <dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí chỉ cho phép sử dụng 1 khu vực. Vui lòng nâng cấp lên bản PRO để tạo được nhiều khu vực." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>
-                                <asp:SqlDataSource ID="SqlBangGia" runat="server" ConnectionString="<%$ ConnectionStrings:BanHangConnectionString %>" SelectCommand="SELECT [ID], [TenBangGia] FROM [CF_BangGia] WHERE ([DaXoa] = @DaXoa)">
+                                <%--<dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí chỉ cho phép sử dụng 1 khu vực. Vui lòng nâng cấp lên bản PRO để tạo được nhiều khu vực." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>--%>
+                                <asp:SqlDataSource ID="SqlBangGia" runat="server" ConnectionString="<%$ ConnectionStrings:BanHangConnectionString %>" SelectCommand="SELECT [ID], [TenBangGia] FROM [CF_BangGia] WHERE ([DaXoa] = @DaXoa) AND IDChiNhanh = @IDChiNhanh">
                                     <SelectParameters>
                                         <asp:Parameter DefaultValue="0" Name="DaXoa" Type="Int32" />
+                                        <asp:SessionParameter DefaultValue="" Name="IDChiNhanh" SessionField="IDChiNhanh" />
                                     </SelectParameters>
                                 </asp:SqlDataSource>
                             </dx:LayoutItemNestedControlContainer>

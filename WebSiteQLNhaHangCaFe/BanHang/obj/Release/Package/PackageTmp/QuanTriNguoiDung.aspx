@@ -31,7 +31,7 @@
                 </Image>
             </DeleteButton>
         </SettingsCommandButton>
-        <SettingsDataSecurity AllowDelete="False" AllowInsert="False" />
+        <SettingsDataSecurity AllowDelete="False" />
         <SettingsPopup>
             <EditForm HorizontalAlign="WindowCenter" VerticalAlign="WindowCenter" Modal="True" />
         </SettingsPopup>
@@ -112,7 +112,7 @@
             </TitlePanel>
         </Styles>
     </dx:ASPxGridView>
-     <dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí chỉ cho phép tạo 1 tài khoản quản lý, 1 tài khoản thu ngân ." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>
+     <%--<dx:ASPxLabel ID="ASPxLabel1" runat="server"  Text="(*) Ghi chú: phiên bản miễn phí chỉ cho phép tạo 1 tài khoản quản lý, 1 tài khoản thu ngân ." Font-Italic="True" Font-Bold="True" ForeColor="#FF3300"></dx:ASPxLabel>--%>
     <asp:SqlDataSource ID="SqlChiNhanh" runat="server" ConnectionString="<%$ ConnectionStrings:BanHangConnectionString %>" SelectCommand="SELECT [ID], [TenChiNhanh] FROM [CF_ChiNhanh] WHERE ([DaXoa] = @DaXoa)">
         <SelectParameters>
             <asp:Parameter DefaultValue="0" Name="DaXoa" Type="Int32" />
